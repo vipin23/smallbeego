@@ -1,0 +1,2 @@
+# smallbeego
+small beego app
